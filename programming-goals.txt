@@ -4,3 +4,11 @@ Programming Goals
 2. Write clean and maintainable code.
 3. Improve problem-solving skills.
 ====================
+
+
+====================
+Programming Goals
+1. Full-stack Web Developer.
+2. Write clean and maintainable code.
+3. Developing my problem-solving skills..
+====================
