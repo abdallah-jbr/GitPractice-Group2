@@ -1,0 +1,6 @@
+====================
+Programming Goals
+1. Master Git & GitHub team workflows.
+2. Write clean and maintainable code.
+3. Improve problem-solving skills.
+====================
