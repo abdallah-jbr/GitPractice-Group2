@@ -17,3 +17,10 @@ Name: Samar Oqdeh
 University: Philadelphia University
 Role: Team Member
 ====================
+
+
+====================
+Name: Layan Ghanem
+University: WISE University
+Role: Team Member
+====================
