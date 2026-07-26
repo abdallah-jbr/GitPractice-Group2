@@ -12,3 +12,11 @@ Programming Goals
 2. Write clean and maintainable code.
 3. Developing my problem-solving skills..
 ====================
+
+
+====================
+Programming Goals
+1. Enhance my analytical and problem-solving abilities.
+2. Using intelligent assistance tools efficiently in writing and analyzing code.
+3. Writing clean, scalable, and secure code.
+====================

@@ -10,3 +10,10 @@ Name: Hamzah Suhail
 University: WISE University
 Role: Team Member
 ====================
+
+
+====================
+Name: Samar Oqdeh
+University: Philadelphia University
+Role: Team Member
+====================
