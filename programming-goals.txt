@@ -28,3 +28,11 @@ Programming Goals
 2. Be able to write cleaner and more organized code
 3. Apply problem-solving skills in real-world situations
 ====================
+
+
+====================
+Programming Goals:
+1. Full-stack Web Developer.
+2. Master Networking(maybe).
+3. Improve problem-solving skills.
+====================
